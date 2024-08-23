@@ -47,6 +47,10 @@ This project provides a web-based chat interface that interacts with a locally h
 - `chat_app.js`: Node.js backend server file.
 - `LICENSE`: Contains the license information for the project.
 
+## Live Demo
+
+You can view a live demo of the project at: [Live Demo](https://n-mohammedshakeel.github.io/Llama-3.1-8B-AI-Assistant/)
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
